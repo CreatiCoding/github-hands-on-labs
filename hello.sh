@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello Updated!"
+echo "Hello Second Branch!"
